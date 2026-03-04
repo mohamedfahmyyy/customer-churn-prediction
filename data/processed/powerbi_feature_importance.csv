@@ -1,0 +1,57 @@
+Feature,Importance,ImportancePercent,Rank,Category
+basket_repeat_score,0.25996906,25.996906,1,Product Intelligence
+best_product_repeat_score,0.105229646,10.5229645,2,Product Intelligence
+days_from_start,0.08717378,8.717379,3,Temporal
+month,0.06462491,6.4624915,4,Temporal
+country_repeat_rate,0.04756518,4.756518,5,Other
+order_complexity_score,0.04370399,4.370399,6,Order Characteristics
+num_unique_products,0.042622074,4.2622075,7,Order Characteristics
+month_repeat_rate,0.040506188,4.0506186,8,Temporal
+product_diversity_ratio,0.03687483,3.687483,9,Order Characteristics
+order_value,0.036089193,3.6089194,10,Order Characteristics
+total_quantity,0.03499131,3.499131,11,Order Characteristics
+avg_item_price,0.034851473,3.4851472,12,Order Characteristics
+num_items,0.034670297,3.4670298,13,Order Characteristics
+hour,0.033971433,3.3971434,14,Temporal
+products_with_history_count,0.031150257,3.1150258,15,Product Intelligence
+Country_France,0.031044083,3.1044083,16,Geographic
+day_of_week,0.029985212,2.998521,17,Temporal
+is_business_hours,0.004977069,0.4977069,18,Temporal
+order_value_percentile,0.0,0.0,19,Order Characteristics
+is_weekend,0.0,0.0,20,Temporal
+Country_Austria,0.0,0.0,21,Geographic
+Country_Bahrain,0.0,0.0,22,Geographic
+Country_Belgium,0.0,0.0,23,Geographic
+num_items_percentile,0.0,0.0,24,Order Characteristics
+Country_Brazil,0.0,0.0,25,Geographic
+Country_Canada,0.0,0.0,26,Geographic
+Country_Cyprus,0.0,0.0,27,Geographic
+Country_Channel Islands,0.0,0.0,28,Geographic
+Country_Denmark,0.0,0.0,29,Geographic
+Country_EIRE,0.0,0.0,30,Geographic
+Country_European Community,0.0,0.0,31,Geographic
+Country_Czech Republic,0.0,0.0,32,Geographic
+Country_Finland,0.0,0.0,33,Geographic
+Country_Germany,0.0,0.0,34,Geographic
+Country_Greece,0.0,0.0,35,Geographic
+Country_Iceland,0.0,0.0,36,Geographic
+Country_Israel,0.0,0.0,37,Geographic
+Country_Italy,0.0,0.0,38,Geographic
+Country_Japan,0.0,0.0,39,Geographic
+Country_Lebanon,0.0,0.0,40,Geographic
+Country_Lithuania,0.0,0.0,41,Geographic
+Country_Malta,0.0,0.0,42,Geographic
+Country_Netherlands,0.0,0.0,43,Geographic
+Country_Norway,0.0,0.0,44,Geographic
+Country_Poland,0.0,0.0,45,Geographic
+Country_Portugal,0.0,0.0,46,Geographic
+Country_RSA,0.0,0.0,47,Geographic
+Country_Saudi Arabia,0.0,0.0,48,Geographic
+Country_Singapore,0.0,0.0,49,Geographic
+Country_Spain,0.0,0.0,50,Geographic
+Country_Sweden,0.0,0.0,51,Geographic
+Country_Switzerland,0.0,0.0,52,Geographic
+Country_USA,0.0,0.0,53,Geographic
+Country_United Arab Emirates,0.0,0.0,54,Geographic
+Country_United Kingdom,0.0,0.0,55,Geographic
+Country_Unspecified,0.0,0.0,56,Geographic

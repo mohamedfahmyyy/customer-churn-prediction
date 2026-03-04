@@ -1,0 +1,14 @@
+Metric,Value
+ROC-AUC Score,0.8207570422535211
+Precision (One-time),0.5957446808510638
+Recall (One-time),0.7466666666666667
+F1-Score (One-time),0.6627218934911243
+Precision (Repeat),0.8455284552845529
+Recall (Repeat),0.7323943661971831
+F1-Score (Repeat),0.7849056603773585
+Overall Accuracy,0.7373271889400922
+Total Customers,4338.0
+Repeat Buyers,2841.0
+One-time Buyers,1497.0
+Test Set Size,868.0
+Train Set Size,3470.0
