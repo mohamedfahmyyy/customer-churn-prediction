@@ -1,10 +1,45 @@
-# Customer Churn Prediction for Online Retail
+# Second Purchase Prediction for Online Retail
+
+> Built to understand what drives customer loyalty in e-commerce and translate ML insights into actionable business strategies.
+
+**Author:** [Mohamed Hassan]  
+**Contact:** [LinkedIn](www.linkedin.com/in/mohamed-fahmy-1911b6399) | [Email](moh365fahmey@gmail.com)  
+**Live Demo:** [Power BI Dashboard](link-if-published)
+
+---
+
+
+
 
 Predicting first-time customer churn to enable targeted retention campaigns with 49x ROI.
 
 ## Overview
 
 Built an end-to-end machine learning system to identify which first-time customers will never make a second purchase. The model achieves 0.821 ROC-AUC and enables targeted retention campaigns generating $104K net profit on a $2.1K investment.
+
+## Dashboard Preview
+
+### Executive Dashboard
+Key metrics, customer distribution, and top countries.
+
+[Executive Dashboard](outputs/figures/dashboard_executive.png)
+
+### Customer Segmentation
+Risk analysis, product quality patterns, and geographic distribution.
+
+[Customer Segmentation](outputs/figures/dashboard_segmentation.png)
+
+### Model Performance
+Feature importance, accuracy over time, and prediction breakdown.
+
+[Model Performance](outputs/figures/dashboard_performance.png)
+
+### Campaign Targeting
+Interactive targeting simulator with ROI calculations.
+
+[Campaign Targeting](outputs/figures/dashboard_targeting.png)
+
+**Note:** Power BI dashboard file (`.pbix`) included in repository. Download to explore interactively.
 
 ## Business Problem
 
